@@ -35,6 +35,6 @@
 1. Пользователь выбирает логин пароль
 1. Система отражает поле для ввода ИИН 
 1. Пользователь вводит ИИН 
-1. Система производит поиск клиент не найдет <https://skillfactoryca.atlassian.net/jira/software/projects/SP/boards/1?selectedIssue=SP-8> 
+1. ***Система*** производит поиск клиент не найдет <https://skillfactoryca.atlassian.net/jira/software/projects/SP/boards/1?selectedIssue=SP-8> 
 1. Сценарий завершен 
 
